@@ -31,6 +31,8 @@ To use tensorboard follow the instructions below. Make sure you've passed the ab
 
 ```tensorboard --logdir=C:\Users\~~~\dqn\logs\deep_q_network```
 
+After this, open your brouser http://localhost:6006/ manually.
+
 ## Legal Notice
 donkey-gym is under MIT license, authored by Tawn Kramer and original sources located [here](https://github.com/tawnkramer/donkey_gym/).
 
