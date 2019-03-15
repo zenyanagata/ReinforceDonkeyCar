@@ -22,7 +22,7 @@ To upgrade your tensorflow, follow the instructions below.(If you upgrade tensor
 ## Monitor Progress
 Here I use tensorboard to monitor the learning progress as bellow.
 
-[image1]: https://github.com/zenyanagata/ReinforceDonkeyCar/blob/master/dqn/util/tensorboard_example.PNG
+[image1]: https://github.com/zenyanagata/ReinforceDonkeyCar/blob/master/util/tensorboard_example.PNG
 ![alt text][image1]
 
 We monitor **Epsilon**, **Loss**, and **Reward** derived each episode. This enables us to make the most of every training transaction.
